@@ -10,6 +10,11 @@
       "StackName": "amplify-bbaas-dev-94059",
       "StackId": "arn:aws:cloudformation:eu-west-2:964414666031:stack/amplify-bbaas-dev-94059/1c80bfa0-2fc3-11eb-a3a6-068f10f1b120",
       "AmplifyAppId": "d2sjdrtht1ervh"
+    },
+    "categories": {
+      "auth": {
+        "cognito5fcbc2a6": {}
+      }
     }
   }
 }

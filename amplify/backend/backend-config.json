@@ -41,5 +41,12 @@
         }
       ]
     }
+  },
+  "auth": {
+    "cognito5fcbc2a6": {
+      "service": "Cognito",
+      "serviceType": "managed",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
