@@ -3,6 +3,10 @@
     "dynamoBbaas": {
       "service": "DynamoDB",
       "providerPlugin": "awscloudformation"
+    },
+    "s392cf4037": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
     }
   },
   "function": {
